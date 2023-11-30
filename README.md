@@ -1,1 +1,1 @@
-# hkf
+# Project for the Human Kindness Foundation.
